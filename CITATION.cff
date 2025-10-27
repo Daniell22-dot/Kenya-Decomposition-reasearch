@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Kenya Decomposition Research: Microenvironmental Variability and Litter Decomposition"
+authors:
+  - given-names: "Daniel"
+    family-names: "Manyasa"
+abstract: "Research project investigating how environmental variability differentially affects microorganism- and fauna-driven litter decomposition in Kenyan ecosystems, with special focus on coastal marine influences."
+version: 1.0.0
+date-released: "2025-10-27"
+url: "https://github.com/Daniell22-dot/kenya-decomposition-research"
+keywords:
+  - "decomposition"
+  - "microorganisms"
+  - "soil fauna"
+  - "environmental variability"
+  - "Kenya"
+  - "coastal ecosystems"
+  - "marine services"
+license: MIT
